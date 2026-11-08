@@ -1,0 +1,5 @@
+# Buildozer CI Ignore
+.buildozer/
+bin/
+__pycache__/
+*.pyc
